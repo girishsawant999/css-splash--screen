@@ -10,7 +10,7 @@ section {
 section::before {
   content: '';
   position: absolute;
-  background: url(/splash.jpg);
+  background: url('splash.jpg');
   background-size: 100vw 100vh;
   mix-blend-mode: screen;
   width: 100%;
